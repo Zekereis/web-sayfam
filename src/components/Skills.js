@@ -7,6 +7,7 @@ import vscode from "../images/icons/vscode.png";
 
 function Skills() {
     return(
+        <div className="skills-bg">
         
         <div className="skills">
             <b>Skills</b>
@@ -40,6 +41,7 @@ function Skills() {
             </div>
         </div>
         
+        </div>
     )
 }
 export default Skills;
