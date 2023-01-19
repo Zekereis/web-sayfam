@@ -19,10 +19,10 @@ function Projects() {
                             <div className="t-one"><p>Vercel</p></div>
                         </div>
                         <div className="details">
-                            <a href="https://github.com/Zekereis/FSWeb-S7-Challenge">
+                            <a target="_blank" href="https://github.com/Zekereis/FSWeb-S7-Challenge">
                             <div className="view-site"><p>View Site</p></div>
                             </a>
-                            <a href="https://github.com/Zekereis/FSWeb-S7-Challenge">
+                            <a target="_blank" href="https://github.com/Zekereis/FSWeb-S7-Challenge">
                             <div className="go-github"><p>Github</p></div>
                             </a>
                         </div>
@@ -39,10 +39,10 @@ function Projects() {
                             <div className="t-one"><p>Vercel</p></div>
                         </div>
                         <div className="details">
-                            <a href="https://github.com/Zekereis/FSWeb-S10G3-Async-Redux">
+                            <a target="_blank" href="https://github.com/Zekereis/FSWeb-S10G3-Async-Redux">
                             <div className="view-site"><p>View Site</p></div>
                             </a>
-                            <a href="https://github.com/Zekereis/FSWeb-S10G3-Async-Redux">
+                            <a target="_blank" href="https://github.com/Zekereis/FSWeb-S10G3-Async-Redux">
                             <div className="go-github"><p>Github</p></div>
                             </a>
                         </div>

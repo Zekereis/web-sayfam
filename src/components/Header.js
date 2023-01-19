@@ -16,13 +16,13 @@ function Header() {
               <p>...who likes to craft, solid and scalable full stack
                 <br />products with great user experiences.</p>
               <div className='hero-buttons'>
-                <a href="https://github.com/Zekereis">
+                <a target="_blank" href="https://github.com/Zekereis">
                 <div className='buttton-github' >
                   <img src={github} />
                   <p>Github</p>
                 </div>
                 </a>
-                <a href="https://www.linkedin.com/in/zeker-reisoğlu-b27839218/">
+                <a target="_blank" href="https://www.linkedin.com/in/zeker-reisoğlu-b27839218/">
                 <div className='button-linkedin'>
                   <img src={linkedin} />
                   <p>Linkedin</p>
